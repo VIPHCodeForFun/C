@@ -1,0 +1,11 @@
+C:\Users\phili\source\repos\ZombieShooter2\obj\Debug\ZombieShooter2.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\ZombieShooter2\obj\Debug\ZombieShooter2.Zombieshooter2.resources
+C:\Users\phili\source\repos\ZombieShooter2\obj\Debug\ZombieShooter2.Properties.Resources.resources
+C:\Users\phili\source\repos\ZombieShooter2\obj\Debug\ZombieShooter2.csproj.GenerateResource.cache
+C:\Users\phili\source\repos\ZombieShooter2\obj\Debug\ZombieShooter2.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\ZombieShooter2\bin\Debug\ZombieShooter2.exe.config
+C:\Users\phili\source\repos\ZombieShooter2\bin\Debug\ZombieShooter2.exe
+C:\Users\phili\source\repos\ZombieShooter2\bin\Debug\ZombieShooter2.pdb
+C:\Users\phili\source\repos\ZombieShooter2\obj\Debug\ZombieShooter2.exe
+C:\Users\phili\source\repos\ZombieShooter2\obj\Debug\ZombieShooter2.pdb
+C:\Users\phili\source\repos\ZombieShooter2\obj\Debug\ZombieShooter2.csproj.SuggestedBindingRedirects.cache

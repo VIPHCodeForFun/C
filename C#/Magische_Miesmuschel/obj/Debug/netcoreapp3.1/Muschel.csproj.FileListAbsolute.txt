@@ -1,0 +1,16 @@
+C:\Users\phili\source\repos\Muschel\bin\Debug\netcoreapp3.1\Muschel.exe
+C:\Users\phili\source\repos\Muschel\bin\Debug\netcoreapp3.1\Muschel.deps.json
+C:\Users\phili\source\repos\Muschel\bin\Debug\netcoreapp3.1\Muschel.runtimeconfig.json
+C:\Users\phili\source\repos\Muschel\bin\Debug\netcoreapp3.1\Muschel.runtimeconfig.dev.json
+C:\Users\phili\source\repos\Muschel\bin\Debug\netcoreapp3.1\Muschel.dll
+C:\Users\phili\source\repos\Muschel\bin\Debug\netcoreapp3.1\Muschel.pdb
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.Magische_Mismuschel.resources
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.Properties.Resources.resources
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.csproj.GenerateResource.cache
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.AssemblyInfoInputs.cache
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.AssemblyInfo.cs
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.dll
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.pdb
+C:\Users\phili\source\repos\Muschel\obj\Debug\netcoreapp3.1\Muschel.genruntimeconfig.cache
